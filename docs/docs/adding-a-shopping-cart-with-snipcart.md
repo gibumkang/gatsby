@@ -38,7 +38,7 @@ Including this information allows a visitor to see what you have for sale, but t
   <p>Wear one or seventeen! These rings are fun to mix and match.</p>
   <!-- highlight-start -->
   <button
-    class="snipcart-add-item"
+    className="snipcart-add-item"
     data-item-id="silver-stacking-ring"
     data-item-price="19.99"
     data-item-url="/"
@@ -70,7 +70,7 @@ Building on the stacking ring example, suppose that you wanted to give your cust
   <p>$19.99</p>
   <p>Wear one or seventeen! These rings are fun to mix and match.</p>
   <button
-    class="snipcart-add-item"
+    className="snipcart-add-item"
     data-item-id="silver-stacking-ring"
     data-item-price="19.99"
     data-item-url="/"
@@ -93,7 +93,7 @@ You can add multiple custom fields by incrementing the index of the `data-item-c
   <p>$19.99</p>
   <p>Wear one or seventeen! These rings are fun to mix and match.</p>
   <button
-    class="snipcart-add-item"
+    className="snipcart-add-item"
     data-item-id="silver-stacking-ring"
     data-item-price="19.99"
     data-item-url="/"
@@ -119,7 +119,7 @@ Snipcart enables the sale of digital goods such as e-books, photography, and oth
   <p>$19.99</p>
   <p>Wear one or seventeen! These rings are fun to mix and match.</p>
   <button
-    class="snipcart-add-item"
+    className="snipcart-add-item"
     data-item-id="silver-stacking-ring"
     data-item-price="19.99"
     data-item-url="/"
